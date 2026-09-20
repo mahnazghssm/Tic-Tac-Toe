@@ -87,3 +87,7 @@ Enter cell number from 1 to 9: 5
 
 Player o's turn
 ```
+
+## License
+
+This project is licensed under the MIT License.
